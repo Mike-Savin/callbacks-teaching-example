@@ -1,0 +1,17 @@
+{
+  "name": "callbacks-teaching-example",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "startPromises": "node index2.js",
+    "startAsync": "node index3.js"
+  },
+  "author": "Michael Savin",
+  "license": "ISC",
+  "dependencies": {
+    "request": "2.88.0",
+    "request-promise": "^4.2.5"
+  }
+}
